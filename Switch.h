@@ -8,7 +8,7 @@
 namespace util
 {
 	template
-	<
+	< 
 		class _KeyT,
 		class _FuncT,
 		class _LessT = std::less< _KeyT >,
